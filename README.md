@@ -1,12 +1,9 @@
-While the project is functional, it currently lacks proper destructors. This leads to memory management issues.
+### Challenges & Notes:
 
-Path to data is hardcoded, one has to change dane.txt file in order to set up a new game. Data structure is as follows:
+- **Missing Destructors**: While the project is functional, it currently lacks proper destructors. This leads to potential memory management issues, such as memory leaks, especially in more complex scenarios.
 
-*number of players*\n
-list of lenght *number of players* with elements:\n
-  *player type* *player name*\n
-*number of sqares*\n
-list of squares types:\n
-  *square type* *description*\n
+- **Hardcoded Data Path**: The path to the data file is hardcoded. To set up a new game, you'll need to manually edit the `dane.txt` file. The data structure in the file is as follows:
+
+
 
 
