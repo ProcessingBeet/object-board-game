@@ -1,0 +1,16 @@
+7
+L graczA
+R graczB
+T graczC
+E graczD
+R graczE
+E graczF
+T graczG
+7
+S 
+P 3 pierwsze pole przeskoku
+.
+P 5      
+R
+D
+P 31    
